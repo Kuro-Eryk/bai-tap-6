@@ -417,9 +417,10 @@ body {
     display: flex;
     align-items: center;
     gap: 16px;
-    margin: 24px 0px;
+    padding: 48px 0px;
     justify-content: center;
     border-top: 1px solid #ccc;
+    margin-top:16px;
   }
   .mini-box7-1 {
     display: grid;
